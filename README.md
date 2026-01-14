@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 👋
 
-![Profile Banner](https://via.placeholder.com/800x150/000000/ffffff?text=BlackArch+Terminal+Vibes)
+![Profile Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmloOTZybHJjbHI0aHZ5eWRvam05ZmExd2tmdXZtYnowaGo0bTd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BW51OCstarPBm/giphy.gif)
 
 I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals, reverse engineering, and tool development.  
 
