@@ -28,8 +28,8 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 
 | Project | Description |
 |---------|-------------|
-| [GameGuardian 6k Scripts](#) | My scripting origins, research-focused. Demonstrates practical reverse-engineering & automation. |
-| [NeoWave Lua](#) | Advanced Lua system/terminal tool. Full config engine, custom logos, colors, module overrides, and full color/backups. |
+| [GameGuardian Lua Script](#) | My scripting origins, research-focused. Demonstrates practical reverse-engineering & automation. |
+| [NeoWave Bash/Lua](#) | Advanced Lua system/terminal tool. Full config engine, custom logos, colors, module overrides, and full color/backups. |
 | [Lua IDE](#) | Custom web-based IDE for Lua scripting with live preview & embedded tools. |
 | Future Projects | DD wipe tool, terminal utilities, cyber tools, and Linux hacking experiments. |
 
