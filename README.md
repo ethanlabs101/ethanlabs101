@@ -56,8 +56,8 @@ Soon I’ll host a developer landing page with:
 ## 📫 Contact
 
 - GitHub: [@ethanlabs101](https://github.com/ethanlabs101)  
-- Email: ethanlabs101@example.com *(replace with your email)*  
-- Discord: ethanlabs#0001 *(optional)*  
+- Email: ethanlabs101@proton.me 
+- Discord: @ethanlabs101 
 
 ---
 
