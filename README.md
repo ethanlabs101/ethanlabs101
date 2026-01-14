@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Ethan 👋
 
-<!--
-**ethanlabs101/ethanlabs101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://via.placeholder.com/800x150/000000/ffffff?text=BlackArch+Terminal+Vibes)
 
-Here are some ideas to get you started:
+I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals, reverse engineering, and tool development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills & Interests
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![GameDev](https://img.shields.io/badge/GameDev-6A5ACD?style=for-the-badge&logo=unity&logoColor=white)
+
+- Languages & Scripting: Lua, Bash, C++, Python  
+- Systems: Linux internals, terminal utilities, shell scripting  
+- Cybersecurity: Reverse engineering, memory analysis, research tools  
+- Game Dev / Tools: Lua IDEs, Bash & terminal tools, automation  
+
+---
+
+## 🔧 Highlighted Projects
+
+| Project | Description |
+|---------|-------------|
+| [GameGuardian 6k Scripts](#) | My scripting origins, research-focused. Demonstrates practical reverse-engineering & automation. |
+| [NeoWave Lua](#) | Advanced Lua system/terminal tool. Full config engine, custom logos, colors, module overrides, and full color/backups. |
+| [Lua IDE](#) | Custom web-based IDE for Lua scripting with live preview & embedded tools. |
+| Future Projects | DD wipe tool, terminal utilities, cyber tools, and Linux hacking experiments. |
+
+---
+
+## 🌐 GitHub Pages / Dev Landing
+
+Soon I’ll host a developer landing page with:  
+- Web-based tools & emulators  
+- Embedded Lua/Bash demos  
+- Interactive terminal experiences  
+- Cool CSS/JS tricks and terminal vibes  
+- Showcase of scripts, research, and experiments  
+
+---
+
+## 📊 Stats / Tools Used
+
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanlabs101&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanlabs101&layout=compact&theme=dark)
+
+---
+
+## 📫 Contact
+
+- GitHub: [@ethanlabs101](https://github.com/ethanlabs101)  
+- Email: ethanlabs101@example.com *(replace with your email)*  
+- Discord: ethanlabs#0001 *(optional)*  
+
+---
+
+> “Building tools, exploring systems, and learning every byte of the OS.” 🖤
