@@ -58,6 +58,7 @@ Soon I’ll host a developer landing page with:
 - GitHub: [@ethanlabs101](https://github.com/ethanlabs101)  
 - Email: ethanlabs101@proton.me 
 - Discord: [@ethanlabs101](https://discord.com/users/1460827490762363001)
+- Instagram:[@ethanlabs101](https://www.instagram.com/ethanlabs101/)
 
 ---
 
