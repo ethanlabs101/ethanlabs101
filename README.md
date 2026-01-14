@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 👋
 
-![Profile Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmloOTZybHJjbHI0aHZ5eWRvam05ZmExd2tmdXZtYnowaGo0bTd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BW51OCstarPBm/giphy.gif)
+![Profile Banner](https://raw.githubusercontent.com/ethanlabs101/ethanlabs101/94c0c4b0b03c085f9d601840ec274a082c8deee8/assets/ethanlabs101.jpg)
 
 I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals, reverse engineering, and tool development.  
 
