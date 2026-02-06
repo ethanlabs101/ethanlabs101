@@ -19,7 +19,7 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![GameDev](https://img.shields.io/badge/GameDev-6A5ACD?style=for-the-badge&logo=unity&logoColor=white)
 
-- Languages & Scripting: Lua, Bash, C++, Python  
+- Languages & Scripting: Lua, Bash, Python  
 - Systems: Linux internals, terminal utilities, shell scripting  
 - Cybersecurity: Reverse engineering, memory analysis, research tools  
 - Game Dev / Tools: Lua IDEs, Bash & terminal tools, automation  
