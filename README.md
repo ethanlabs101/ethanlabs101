@@ -33,8 +33,8 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 | [GameGuardian Lua Script](https://github.com/ethanlabs101/gameguardian-lua-script) | My scripting origins, research-focused. Demonstrates practical reverse-engineering & automation. |
 | [NeoWave Bash Legacy](https://github.com/ethanlabs101/neowave-bash-legacy) | Legacy edition of NeoWave Lua. Displays original bash engine, as well as limitations versus its Lua predecessor. |
 | [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua) | Advanced Lua system/terminal tool. Full config engine, custom logos, colors, module overrides, and full color/backups. |
-| [Lua IDE](#) | Custom web-based IDE for Lua scripting with live preview & embedded tools. |
-| Future Projects | DD wipe tool, terminal utilities, cyber tools, and Linux hacking experiments. |
+| [Retro-Fi](https://github.com/ethanlabs101/Retro-Fi) | Lightweight Rofi + Retro Gaming Platform Launcher supporting over 30+ retro systems. |
+| Future Projects | DD wipe tool, terminal utilities, cyber tools, and various experiments. |
 
 ---
 
