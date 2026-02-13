@@ -10,6 +10,7 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 </p>
 
 <p align="center">
+  <h2 id="-skills-interests">💻 Skills &amp; Interests <h2/>
   <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,html,css,js,bash,lua,python" />
 </p>
 
@@ -18,7 +19,6 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=white" alt="Cybersecurity">
 <img src="https://img.shields.io/badge/GameDev-6A5ACD?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="GameDev" />
 </p>
-
 
 <hr>
 
