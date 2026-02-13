@@ -7,7 +7,7 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 ---
 <br>
 <p align="center">
-  <span class="Skills" >## 💻 Skills & Interests </span>
+  <span style="font-weight:bold">💻 Skills & Interests</span>
   </p>
 
 <br>
