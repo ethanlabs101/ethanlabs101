@@ -8,7 +8,7 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/ethanlabs101/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{ethanlabs101}/count.svg" alt="Visitor's Count" />
 </div>
 
 ---
