@@ -5,13 +5,9 @@
 I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals, reverse engineering, and tool development.  
 
 ---
-
-  <br>
-  <p align="center">
-    <h2 id="-skills-interests">💻 Skills &amp; Interests</h2>
-  </p>
-
-  <br>
+<p align="center">
+<h2 id="-skills-interests">💻 Skills &amp; Interests</h2>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,html,css,js,bash,lua,python" />
