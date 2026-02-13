@@ -26,6 +26,8 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=My+Projects%3A)](https://git.io/typing-svg)
+
 ## 🔧 Highlighted Projects
 
 | Project | Description |
