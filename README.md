@@ -14,8 +14,6 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 
 <hr>
 
-<br>
-
 <p align="left">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=white" alt="Cybersecurity">
@@ -24,8 +22,6 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 </p>
 
 <hr>
-
-<br>
 
 - Languages & Scripting: Lua, Bash, Python  
 - Systems: Linux internals, terminal utilities, shell scripting  
