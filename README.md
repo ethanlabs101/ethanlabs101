@@ -8,12 +8,14 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 
 ## 💻 Skills & Interests
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)]()
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)]()
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)]()
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bash,lua,python" />
+</p>
+
+<hr>
+
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
@@ -71,7 +73,7 @@ Soon I’ll host a developer landing page with:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bash,lua,python" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,cybersecuirity,kali,gamedev" />
 </p>
 
 <hr>
