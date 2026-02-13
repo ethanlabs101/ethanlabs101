@@ -5,8 +5,10 @@
 I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals, reverse engineering, and tool development.  
 
 ---
-
-## 💻 Skills & Interests
+<br>
+<p align="center'>
+  <span class="Skills" >💻 Skills & Interests </span>
+  </p>
 
 <br>
 
