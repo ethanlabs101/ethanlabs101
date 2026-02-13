@@ -6,7 +6,7 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 
 ---
 <br>
-<p align="center'>
+<p align="center">
   <span class="Skills" >💻 Skills & Interests </span>
   </p>
 
