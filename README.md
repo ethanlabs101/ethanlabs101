@@ -17,6 +17,10 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
   <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,html,css,js,bash,lua,python" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+</p>
+
 <hr>
 
 <br>
