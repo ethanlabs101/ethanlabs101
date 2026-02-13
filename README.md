@@ -6,6 +6,13 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 
 ---
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/ethanlabs101/count.svg" alt="Visitor's Count" />
+</div>
+
+---
+
 ## 💻 Skills & Interests
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
