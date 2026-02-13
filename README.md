@@ -18,17 +18,16 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=white" alt="Cybersecurity">
+<img src="https://img.shields.io/badge/GameDev-6A5ACD?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="GameDev" />
 </p>
+
 
 <hr>
 
 <br>
 
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![GameDev](https://img.shields.io/badge/GameDev-6A5ACD?style=for-the-badge&logo=unity&logoColor=white)
 
 - Languages & Scripting: Lua, Bash, Python  
 - Systems: Linux internals, terminal utilities, shell scripting  
