@@ -11,7 +11,7 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bash,lua,python" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,html,css,js,bash,lua,python" />
 </p>
 
 <hr>
@@ -69,11 +69,3 @@ Soon I’ll host a developer landing page with:
 
 > “Building tools, exploring systems, and learning every byte of the OS.” 🖤
 
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,cybersecuirity,kali,gamedev" />
-</p>
-
-<hr>
