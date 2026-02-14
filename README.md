@@ -7,6 +7,10 @@
 
 I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals, reverse engineering, and tool development.  
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=9999999999999999999999999&color=FF0000&center=true&repeat=false&width=1500&height=75&lines=I'm+a+Cybersecurity+%26+Systems+Enthusiast+with+a+deep+passion+for+Linux+internals%2C+reverse+engineering%2C+and+tool+development." alt="Typing SVG" /></a>
+
+
 ---
 
 <p align="center">
