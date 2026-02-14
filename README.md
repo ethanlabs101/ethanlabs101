@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20ethanlabs101;I%20build%20Linux%20Tools,;and%20Cybersecurity%20research%20utilities,;Enjoy%20the%20page%20and;Have%20a%20great%20day!%20%F0%9F%9A%80&font=Fira%20Code&duration=1500&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=500&size=19" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20ethanlabs101.;I%20build%20Linux%20Tools.;Cybersecurity%20research%20utilities.;Enjoy%20the%20page.;Have%20a%20great%20day!%20%F0%9F%9A%80&font=Fira%20Code&duration=1500&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=500&size=19" /></a>
 </p>
 
 I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals, reverse engineering, and tool development.  
