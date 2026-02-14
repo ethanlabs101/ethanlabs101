@@ -10,6 +10,7 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,html,css,js,bash,lua,python" />
+    <img src="https://img.shields.io/badge/GameDev-6A5ACD?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="GameDev" />
     
 </p>
 
