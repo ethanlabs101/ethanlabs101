@@ -1,4 +1,4 @@
-# Hi, I'm Ethan 👋
+# $$\color{red}Hi,\space \color{blue}I'm \space \color{purple}Ethan 👋$$
 
 ![ethanlabs101](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/ethanlabs101-ascii.png)
 
@@ -8,8 +8,6 @@
 </p>
 
 I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals, reverse engineering, and tool development.  
-
-$$\color{red}Welcome \space \color{blue}To \space \color{purple}ethanlabs101$$
 
 ---
 
