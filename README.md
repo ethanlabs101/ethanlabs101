@@ -1,6 +1,6 @@
 ![ethanlabs101](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/ethanlabs101-ascii.png)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=800&color=00FF06&center=true&repeat=false&width=1500&height=75&lines=%5Broot%40ethanlabs101+~%5D+%24+initializing+profile...;Access+Granted;Linux+tools+loaded+%E2%9C%94%EF%B8%8F;Cyber+research+modules+ready+%E2%9C%94%EF%B8%8F;Welcome+to+ethanlabs101" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=800&color=00FF06&center=true&repeat=true&width=1500&height=75&lines=%5Broot%40ethanlabs101+~%5D+%24+initializing+profile...;Access+Granted;Linux+tools+loaded+%E2%9C%94%EF%B8%8F;Cyber+research+modules+ready+%E2%9C%94%EF%B8%8F;Welcome+to+ethanlabs101" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
