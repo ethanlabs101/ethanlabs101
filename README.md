@@ -1,4 +1,4 @@
-# $$\color{darkred}Hi,\space \color{darkblue}I'm \space \color{darkpurple}Ethan 👋$$
+# $$\color{darkred}Hi,\space \color{darkred}I'm \space \color{darkred}Ethan 👋$$
 
 ![ethanlabs101](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/ethanlabs101-ascii.png)
 
