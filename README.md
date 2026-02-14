@@ -81,3 +81,6 @@ Soon I’ll host a developer landing page with:
 > “Building tools, exploring systems, and learning every byte of the OS.” 🖤
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
