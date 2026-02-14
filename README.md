@@ -23,8 +23,6 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
 
 <hr>
 
-![ethanlabs101](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/ethanlabs101-ascii.png)
-
 - Languages & Scripting: Lua, Bash, Python  
 - Systems: Linux internals, terminal utilities, shell scripting  
 - Cybersecurity: Reverse engineering, memory analysis, research tools  
