@@ -5,9 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20ethanlabs101.;I%20build%20Linux%20Tools.;Cybersecurity%20research%20utilities.;Enjoy%20the%20page.;Have%20a%20great%20day!%20%F0%9F%9A%80&font=Fira%20Code&duration=1500&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=500&size=19" /></a>
 </p>
 
-I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals, reverse engineering, and tool development.  
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=9999999999999999999999999&color=FF0000&center=true&repeat=false&width=1500&height=75&lines=I'm+a+Cybersecurity+%26+Systems+Enthusiast+with+a+deep+passion+for+Linux+internals%2C+reverse+engineering%2C+and+tool+development." alt="Typing SVG" /></a>
 
 
