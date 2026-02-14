@@ -13,7 +13,6 @@ I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals
     
 </p>
 
-<hr>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
