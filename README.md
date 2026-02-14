@@ -1,4 +1,4 @@
-![ethanlabs101](https://socialify.git.ci/ethanlabs101/ethanlabs101/image?font=JetBrains+Mono&name=1&owner=1&pattern=Transparent&theme=Dark)
+![ethanlabs101](https://socialify.git.ci/ethanlabs101/ethanlabs101/image?font=JetBrains+Mono&name=1&owner=1&pattern=Formal+Invitation&theme=Dark)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
