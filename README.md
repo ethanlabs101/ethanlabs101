@@ -66,7 +66,10 @@ Soon I’ll host a developer landing page with:
 
 <hr>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ethanlabs101&theme=github-dark-dimmed&custom_title=ethanlabs101%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ethanlabs101&amp;theme=github-dark-dimmed&amp;custom_title=ethanlabs101%20Activity%20Graph&amp;hide_border=true" alt="activity graph"></a>
+</p>
+
 
 ---
 
