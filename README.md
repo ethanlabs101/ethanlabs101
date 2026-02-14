@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 👋
 
-![Profile Banner](https://raw.githubusercontent.com/ethanlabs101/ethanlabs101/94c0c4b0b03c085f9d601840ec274a082c8deee8/assets/ethanlabs101.jpg)
+![ethanlabs101](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/ethanlabs101-ascii.png)
 
 I'm a Cybersecurity & Systems Enthusiast with a deep passion for Linux internals, reverse engineering, and tool development.  
 
