@@ -61,9 +61,10 @@ Soon I’ll host a developer landing page with:
 ## ⚡️ Stats
 
 <br>
-
+ <p align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ethanlabs101&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Ethanslabs101's" />
-
+ </p>
+ 
 <hr>
 
 <p align="center">
