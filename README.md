@@ -1,10 +1,5 @@
 ![ethanlabs101](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/ethanlabs101-ascii.png)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ethanlabs101&repo=Retro-Fi)](https://github.com/ethanlabs101/Retro-Fi)
-
-
-
-
 
 
 
