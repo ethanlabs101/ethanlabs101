@@ -1,5 +1,3 @@
-# $$\color{darkred}Hi,\space \color{darkred}I'm \space \color{darkred}Ethan 👋$$
-
 ![ethanlabs101](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/ethanlabs101-ascii.png)
 
 <p align="center">
