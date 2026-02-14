@@ -1,5 +1,13 @@
 ![ethanlabs101](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/ethanlabs101-ascii.png)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME)](https://github.com/YOUR_USERNAME/REPO_NAME)
+
+
+
+
+
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20ethanlabs101.;I%20build%20Linux%20Tools.;Cybersecurity%20research%20utilities.;Enjoy%20the%20page.;Have%20a%20great%20day!%20%F0%9F%9A%80&font=Fira%20Code&duration=1500&center=true&width=440&height=45&color=ff0000&vCenter=true&pause=500&size=19" /></a>
