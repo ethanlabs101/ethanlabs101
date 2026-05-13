@@ -45,6 +45,7 @@
 | 💾 [NeoWave Bash](https://github.com/ethanlabs101/neowave-bash-legacy) | Legacy edition of NeoWave Lua. Displays original bash engine, as well as limitations versus its Lua predecessor. |
 | 🌊 [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua) | Advanced Lua system/terminal tool. Full config engine, custom logos, colors, module overrides, and full color/backups. |
 | 🕹️ [Retro-Fi](https://github.com/ethanlabs101/Retro-Fi) | Custom UI system for retro gaming enthusiasts supporting over 30+ retro systems. |
+| ⚖️ [Integrity Checker](https://github.com/ethanlabs101/integrity-checker) | A simple Python tool that utilizes SHA256 hashing to detect file changes for basic system integrity checking. |
 | Future Projects | DD wipe tool, terminal utilities, cyber tools, and various experiments. |
 
 ---
