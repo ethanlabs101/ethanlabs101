@@ -40,7 +40,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=My+Projects%3A)](https://git.io/typing-svg)
 
 | Project | Description |
-|------------|-------------|
+|---------|-------------|
 | 🛡️[GG Lua Script](https://github.com/ethanlabs101/gameguardian-lua-script) | My scripting origins, research-focused. Demonstrates practical reverse-engineering & automation. |
 | [NeoWave Bash](https://github.com/ethanlabs101/neowave-bash-legacy) | Legacy edition of NeoWave Lua. Displays original bash engine, as well as limitations versus its Lua predecessor. |
 | 🌊[NeoWave Lua](https://github.com/ethanlabs101/neowave-lua) | Advanced Lua system/terminal tool. Full config engine, custom logos, colors, module overrides, and full color/backups. |
