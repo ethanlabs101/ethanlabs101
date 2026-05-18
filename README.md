@@ -20,15 +20,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQzcHMwanZoYWRhejd3NGJnenpkNGV0aWxoMmpua2gwN2hrcXJjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" alt="gif test" />
 </a>
 </p>
-
----
- {
-    "title": "Drift King",
-    "embed": "https://www.onlinegames.io/games/2024/unity/drift-king/index.html",
-    "image": "https://www.onlinegames.io/media/posts/729/responsive/Drift-King-xs.jpg",
-    "tags": "3d,car,crazy,drift,driving,free,multiplayer,simulator,speed,unity",
-    "description": "Drift King stands out among online drift games, offering a unique experience where you can witness the smoke you leave behind from the rearview window.  This game surrounds you in every realistic detail, from its premium 3D visuals to the choice of 10 sports cars and 6 maps. \nThe comprehensive tuning options further enhance the game, making it a complete package for drifting enthusiasts. \n\n\nControls\n\nWASD or arrow keys: Move car \nM: Rearview Mirror\nC: Change Carnera\nR: Reset Car\nU: Toggle between KMH and MPH\nI: Start/Stop Engine\nP: Fullscreen\n\n\n\nHow To Play Drift King\nThe traditional approach in a car game would be to give zero cash to the player at the beginning."
-  }
 ---
 
 <p align="center">
