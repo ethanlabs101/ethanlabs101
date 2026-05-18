@@ -7,20 +7,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=9999999999999999999999999&color=00aeef&center=true&repeat=false&width=1500&height=75&lines=I'm+a+Cybersecurity+%26+Systems+Enthusiast+with+a+deep+passion+for+Linux+internals%2C+reverse+engineering%2C+and+tool+development." alt="Typing SVG" /></a>
 
-
----
-<p align="middle">
-  <a href="https://giphy.com">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQzcHMwanZoYWRhejd3NGJnenpkNGV0aWxoMmpua2gwN2hrcXJjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" alt="gif test" />
-  </a>
-   <a href="https://giphy.com">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQzcHMwanZoYWRhejd3NGJnenpkNGV0aWxoMmpua2gwN2hrcXJjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" alt="gif test" />
-  </a>
-   <a href="https://giphy.com">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQzcHMwanZoYWRhejd3NGJnenpkNGV0aWxoMmpua2gwN2hrcXJjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" alt="gif test" />
-</a>
-</p>
-
 ---
 
 <p align="center">
