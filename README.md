@@ -12,15 +12,7 @@
 <p align="left">
   <a href="https://giphy.com">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQzcHMwanZoYWRhejd3NGJnenpkNGV0aWxoMmpua2gwN2hrcXJjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" alt="gif test" />
-</a>
-
-<p align="middle">
-  <a href="https://giphy.com">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQzcHMwanZoYWRhejd3NGJnenpkNGV0aWxoMmpua2gwN2hrcXJjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" alt="gif test" />
-  </a>
-
-<p align="right">
-  <a href="https://giphy.com">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQzcHMwanZoYWRhejd3NGJnenpkNGV0aWxoMmpua2gwN2hrcXJjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" alt="gif test" />
 </a>
 </p>
