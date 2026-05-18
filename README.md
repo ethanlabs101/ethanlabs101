@@ -1,7 +1,3 @@
-<p align="center">
- <img src="https://socialify.git.ci/ethanlabs101/ethanlabs101/image?font=JetBrains+Mono&name=1&owner=1&pattern=Overlapping+Hexagons&theme=Dark" alt="ethanlabs101" width="800" height="300" />
-</p>
-
 ![ethanlabs101](https://github.com/ethanlabs101/ethanlabs101/blob/main/assets/ethanlabs101.png)
 
 <p align="center">
