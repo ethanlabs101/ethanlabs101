@@ -9,6 +9,13 @@
 
 
 ---
+<p align="center".
+  <a href="https://giphy.com/gifs">
+  <img src="https://giphy.com/gifs/cat-computer-mcsPU3SkKrYDdW3aAU" alt="gif test" />
+</a>
+</p>
+
+---
 
 <p align="center">
   <a href="https://git.io/typing-svg">
