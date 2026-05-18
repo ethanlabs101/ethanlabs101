@@ -1,4 +1,5 @@
 ![ethanlabs101](https://github.com/ethanlabs101/ethanlabs101/blob/main/assets/ethanlabs101.png)
+![ethanlabs101](https://github.com/ethanlabs101/ethanlabs101/blob/main/assets/ethanlabs101.mp4)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
