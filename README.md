@@ -23,18 +23,6 @@
 
 ---
 
-[
-  {
-    "title": "Stack Fire Ball",
-    "embed": "https://www.onlinegames.io/games/2021/unity/stack-fire-ball/index.html",
-    "image": "https://www.onlinegames.io/media/posts/184/responsive/Stack-Fire-Ball-Game-xs.jpg",
-    "tags": "1-player,3d,arcade,avoid,ball,color,crazy,destroy,free,mobile,mouse,skill",
-    "description": "Reach the end by guiding the ball through each stage, avoiding the dark tiles. This game is a combination between relaxation but also keeping attention to details. With modern graphics, you will enjoy knocking down the colorful tiles as fast as you can.  Let the ball bounce and complete all the stages."
-  }
-   ]
-
----
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&height=75&lines=%F0%9F%92%BB+Skills+%26+Interests%3A" alt="Typing SVG" />
