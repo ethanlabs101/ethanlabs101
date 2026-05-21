@@ -99,9 +99,9 @@ Thank you for visting my profile!
 
 If you found any of my projects interesting, make sure to leave a star ⭐ :)
 
-<< Open to freelance and development opportunites!
+>> Open to freelance and development opportunites!
 
-<< Have a great day!
+>> Have a great day!
 
 ````
 ---
