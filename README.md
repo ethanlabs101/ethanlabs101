@@ -31,7 +31,7 @@
 [ethanlabs101@archlinux ~]$ whoami
 ethanlabs101
 [ethanlabs101@archlinux ~]$ ls
-about.txt  skills.txt  projects/  certs.txt  now.txt
+about.txt  skills.txt  projects.txt  certs.txt  goodbye.sh
 [ethanlabs101@archlinux ~]$ cat about.txt
 Systems-focused developer building automation tools, dashboards,
 and infrastructure style projects.
@@ -67,8 +67,40 @@ Concepts:
 - File/data processing
 - Network / infrastructure logic
 
-[ethanlabs101@archlinux ~]$
+[ethanlabs101@archlinux ~]$ cat projects.txt
+gameguardian-lua-script
+neowave-bash-legacy
+neowave-lua
+Retro-Fi
+twilight-launcher
+integrity-shield
+sentinel-dashboard
 
+See Below For Project Links! ;)
+[ethanlabs101@archlinux ~]$ cat certs.txt
+Certifications:
+
+None Yet...
+
+Currently Working on:
+- CS50P (Harvard Python) - Python fundamentals & problem solving
+- freeCodeCamp Python track - Python scientific computing & data handling
+- Exercism Python track 
+
+Future:
+- CompTIA Network+ (networking fundamentals)
+- CompTIA Security+ (security fundamentals)
+- additional applied systems/security certifications as needed
+
+[ethanlabs101@archlinux ~]$ ./goodbye.sh
+
+Thank you for visting my profile!
+
+If you found any of my projects interesting, make sure to leave a star ⭐ :)
+
+<< Open to freelance and development opportunites!
+
+<< Have a great day!
 
 ````
 ---
