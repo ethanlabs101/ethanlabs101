@@ -33,10 +33,25 @@ ethanlabs101
 [ethanlabs101@archlinux ~]$ ls
 about.txt  skills.txt  projects.txt  certs.txt  goodbye.sh
 [ethanlabs101@archlinux ~]$ cat about.txt
+
+<details>
+<summary>title of the content (*not* support **markdown** syntax ~~hmm~~)</summary>
+
+content body (support **markdown** syntax ~~hmm~~)
+
+```json
+{
+  support: "codeblock to"
+}
+​```
+
+</details>
+
 ​```json
 Systems-focused developer building automation tools, dashboards,
 and infrastructure style projects.  
 ​```
+
 Interested in:
 - system design
 - tooling & automation
