@@ -28,9 +28,14 @@
 <hr>
 
 ````md
+[ethanlabs101@archlinux ~]$ whoami
+ethanlabs101
+Systems Developer | Python - Lua - Bash | Infrastructure & Automation
+[ethanlabs101@archlinux ~]$ ls
+about.txt  skills.txt  projects/  certs.txt  now.txt
 [ethanlabs101@archlinux ~]$ cat skills.txt
 
->> ***Hello!***
+>> 
 - Languages & Scripting: Lua, Bash, Python  
 - Systems: Linux internals, terminal utilities, shell scripting  
 - Cybersecurity: Reverse engineering, memory analysis, research tools  
@@ -38,13 +43,6 @@
 [ethanlabs101@archlinux ~]$
 
 ````
-
-
-- Languages & Scripting: Lua, Bash, Python  
-- Systems: Linux internals, terminal utilities, shell scripting  
-- Cybersecurity: Reverse engineering, memory analysis, research tools  
-- Game Dev / Tools: Lua IDEs, Bash & terminal tools, automation  
-
 ---
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=00aeef&width=435&lines=My+Projects%3A)](https://git.io/typing-svg)
