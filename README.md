@@ -29,18 +29,46 @@
 
 ````md
 [ethanlabs101@archlinux ~]$ whoami
-> ethanlabs101
-> Systems Developer | Python - Lua - Bash | Infrastructure & Automation
+ethanlabs101
 [ethanlabs101@archlinux ~]$ ls
-> about.txt  skills.txt  projects/  certs.txt  now.txt
-[ethanlabs101@archlinux ~]$ cat skills.txt
+about.txt  skills.txt  projects/  certs.txt  now.txt
+[ethanlabs101@archlinux ~]$ cat about.txt
+Systems-focused developer building automation tools, dashboards,
+and infrastructure style projects.
 
->> 
-- Languages & Scripting: Lua, Bash, Python  
-- Systems: Linux internals, terminal utilities, shell scripting  
-- Cybersecurity: Reverse engineering, memory analysis, research tools  
-- Game Dev / Tools: Lua IDEs, Bash & terminal tools, automation
+Interested in:
+- system design
+- tooling & automation
+- backend architecture
+- cybersecurity tooling (defensive + offensive concepts)
+- reverse engineering workflows
+
+[ethanlabs101@archlinux ~]$ cat skills.txt
+Languages:
+- Python (primary)
+- Lua (automation / scripting)
+- Bash (system scripting)
+
+Systems:
+- Automation tooling
+- Dashboard development
+- Scripted enviornments / modding tools
+- API integration
+- Linux Internals
+
+Frameworks / Tools:
+- Electron (desktop applications)
+- Node.js (runtime / tooling)
+- Git (version control)
+
+Concepts:
+- System design
+- Debugging complex scripts
+- File/data processing
+- Network / infrastructure logic
+
 [ethanlabs101@archlinux ~]$
+
 
 ````
 ---
