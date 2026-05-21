@@ -28,18 +28,13 @@
 <hr>
 
 ````md
-<details>
-<summary>title of the content (*not* support **markdown** syntax ~~hmm~~)</summary>
+[ethanlabs101@archlinux ~]$ cat skills.txt
+- Languages & Scripting: Lua, Bash, Python  
+- Systems: Linux internals, terminal utilities, shell scripting  
+- Cybersecurity: Reverse engineering, memory analysis, research tools  
+- Game Dev / Tools: Lua IDEs, Bash & terminal tools, automation
+[ethanlabs101@archlinux ~]$
 
-content body (support **markdown** syntax ~~hmm~~)
-
-```json
-{
-  support: "codeblock to"
-}
-​```
-
-</details>
 ````
 
 
