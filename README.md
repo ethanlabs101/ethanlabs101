@@ -30,7 +30,7 @@
 ````md
 [ethanlabs101@archlinux ~]$ cat skills.txt
 
->> Hello!
+>> ***Hello!***
 - Languages & Scripting: Lua, Bash, Python  
 - Systems: Linux internals, terminal utilities, shell scripting  
 - Cybersecurity: Reverse engineering, memory analysis, research tools  
