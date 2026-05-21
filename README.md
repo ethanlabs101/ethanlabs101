@@ -58,17 +58,6 @@
 
 ---
 
-## 🌐 GitHub Pages / Dev Landing
-
-Soon I’ll host a developer landing page with:  
-- Web-based tools & emulators  
-- Embedded Lua/Bash demos  
-- Interactive terminal experiences  
-- Cool CSS/JS tricks and terminal vibes  
-- Showcase of scripts, research, and experiments  
-
----
-
 ## ⚡️ Stats
 
 <br>
