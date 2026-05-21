@@ -33,10 +33,10 @@ ethanlabs101
 [ethanlabs101@archlinux ~]$ ls
 about.txt  skills.txt  projects.txt  certs.txt  goodbye.sh
 [ethanlabs101@archlinux ~]$ cat about.txt
-
+​```
 Systems-focused developer building automation tools, dashboards,
 and infrastructure style projects.  
-
+​```
 Interested in:
 - system design
 - tooling & automation
