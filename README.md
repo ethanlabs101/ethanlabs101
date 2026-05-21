@@ -27,6 +27,22 @@
 
 <hr>
 
+````md
+<details>
+<summary>title of the content (*not* support **markdown** syntax ~~hmm~~)</summary>
+
+content body (support **markdown** syntax ~~hmm~~)
+
+```json
+{
+  support: "codeblock to"
+}
+​```
+
+</details>
+````
+
+
 - Languages & Scripting: Lua, Bash, Python  
 - Systems: Linux internals, terminal utilities, shell scripting  
 - Cybersecurity: Reverse engineering, memory analysis, research tools  
