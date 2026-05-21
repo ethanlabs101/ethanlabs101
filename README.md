@@ -29,10 +29,10 @@
 
 ````md
 [ethanlabs101@archlinux ~]$ whoami
-ethanlabs101
-Systems Developer | Python - Lua - Bash | Infrastructure & Automation
+> ethanlabs101
+> Systems Developer | Python - Lua - Bash | Infrastructure & Automation
 [ethanlabs101@archlinux ~]$ ls
-about.txt  skills.txt  projects/  certs.txt  now.txt
+> about.txt  skills.txt  projects/  certs.txt  now.txt
 [ethanlabs101@archlinux ~]$ cat skills.txt
 
 >> 
