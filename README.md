@@ -40,12 +40,8 @@ about.txt  skills.txt  projects.txt  certs.txt  goodbye.sh
   support: "codeblock to"
 }
 ​```
-
-
-​```json
 Systems-focused developer building automation tools, dashboards,
-and infrastructure style projects.  
-​```
+and infrastructure style projects.
 
 Interested in:
 - system design
