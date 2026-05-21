@@ -34,9 +34,6 @@ ethanlabs101
 about.txt  skills.txt  projects.txt  certs.txt  goodbye.sh
 [ethanlabs101@archlinux ~]$ cat about.txt
 
-<details>
-
-content body (support **markdown** syntax ~~hmm~~)
 
 ```json
 {
@@ -44,7 +41,6 @@ content body (support **markdown** syntax ~~hmm~~)
 }
 ​```
 
-</details>
 
 ​```json
 Systems-focused developer building automation tools, dashboards,
