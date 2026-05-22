@@ -83,7 +83,6 @@ Certifications:
 None Yet...
 
 Currently Working on:
-- CS50P (Harvard Python) - Python fundamentals & problem solving
 - freeCodeCamp Python track - Python scientific computing & data handling
 - Exercism Python track 
 
