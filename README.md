@@ -68,13 +68,15 @@ Concepts:
 - Network / infrastructure logic
 
 [ethanlabs101@archlinux ~]$ cat projects.txt
-gameguardian-lua-script
-neowave-bash-legacy
-neowave-lua
-Retro-Fi
-twilight-launcher
-integrity-shield
-sentinel-dashboard
+
+Projects:
+- gameguardian-lua-script
+- neowave-bash-legacy
+- neowave-lua
+- Retro-Fi
+- twilight-launcher
+- integrity-shield
+- sentinel-dashboard
 
 See Below For Project Links! ;)
 [ethanlabs101@archlinux ~]$ cat certs.txt
