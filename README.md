@@ -45,6 +45,7 @@ Interested in:
 - reverse engineering workflows
 
 [ethanlabs101@archlinux ~]$ cat skills.txt
+
 Languages:
 - Python (primary)
 - Lua (automation / scripting)
@@ -81,6 +82,7 @@ Projects:
 
 See Below For Project Links! ;)
 [ethanlabs101@archlinux ~]$ cat certs.txt
+
 Certifications:
 
 None Yet...
