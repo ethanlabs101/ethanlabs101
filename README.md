@@ -81,6 +81,7 @@ Projects:
 - sentinel-dashboard
 
 See Below For Project Links! ;)
+
 [ethanlabs101@archlinux ~]$ cat certs.txt
 
 Certifications:
