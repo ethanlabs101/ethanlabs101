@@ -96,7 +96,7 @@ Currently Working on:
 Future:
 - CompTIA Network+ (networking fundamentals)
 - CompTIA Security+ (security fundamentals)
-- additional applied systems/security certifications as needed
+- additional systems/security certifications as needed
 
 [ethanlabs101@archlinux ~]$ ./goodbye.sh
 
