@@ -50,6 +50,7 @@ Languages:
 - Python (primary)
 - Lua (automation / scripting)
 - Bash (system scripting)
+- html / css / JS (web development)
 
 Systems:
 - Automation tooling
