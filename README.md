@@ -100,7 +100,7 @@ Future:
 
 [ethanlabs101@archlinux ~]$ ./goodbye.sh
 
-Thank you for visting my profile!
+>> Thank you for visting my profile!
 
 If you found any of my projects interesting, make sure to leave a star ⭐ :)
 
