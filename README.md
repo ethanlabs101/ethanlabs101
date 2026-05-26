@@ -121,7 +121,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐ :)
 | 🌊 [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua) | Advanced Lua system/terminal tool. Full config engine, custom logos, colors, module overrides, and full color/backups. |
 | 🕹️ [Retro-Fi](https://github.com/ethanlabs101/Retro-Fi) | Custom UI system for retro gaming enthusiasts supporting over 35+ retro systems. |
 | ⚖️ [Integrity Shield](https://github.com/ethanlabs101/integrity-shield) | A simple Python tool that utilizes SHA256 hashing to detect file changes for basic system integrity checking. |
-| 🖥️ [Sentinel Dashboard](https://github.com/ethanlabs101/sentinel-dashboard) | Real-Time Linux Security & System Telemetry Monitor. For Linux Servers!|
+| 🖥️ [Sentinel Dashboard](https://github.com/ethanlabs101/sentinel-dashboard) | A real-time, terminal-native security monitor for Linux, built for servers, homelabs, and SSH-first operators.|
 
 ---
 
