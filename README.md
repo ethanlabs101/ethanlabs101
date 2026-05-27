@@ -119,7 +119,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐ :)
 | 🛡️ [GG Lua Mastery](https://github.com/ethanlabs101/gameguardian-lua-script) | ***My scripting origins, research-focused. Demonstrates practical reverse-engineering & automation.*** |
 | 💾 [NeoWave Bash](https://github.com/ethanlabs101/neowave-bash-legacy) | ***Legacy edition of NeoWave Lua. Displays original bash engine, as well as limitations versus its Lua predecessor.*** |
 | 🌊 [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua) | ***Advanced Lua system/terminal tool. Full config engine, custom logos, colors, module overrides, and full color/backups.*** (Under Construction 🚧) |
-| 🕹️ [Retro-Fi](https://github.com/ethanlabs101/Retro-Fi) | ***Custom UI system for retro gaming enthusiasts supporting over 35+ retro systems.*** |
+| 🕹️ [Retro-Fi](https://github.com/ethanlabs101/Retro-Fi) | ***Custom Linux-native UI system for retro gaming enthusiasts supporting over 35+ retro systems.*** |
 | ⚖️ [Integrity Shield](https://github.com/ethanlabs101/integrity-shield) | ***A simple Python tool that utilizes SHA256 hashing to detect file changes for basic system integrity checking.*** |
 | 🖥️ [Sentinel Dashboard](https://github.com/ethanlabs101/sentinel-dashboard) | ***A real-time, terminal-native security monitor for Linux, built for servers, homelabs, and SSH-first operators.*** |
 
