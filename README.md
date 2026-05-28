@@ -126,6 +126,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐ :)
 
 | Project | Description |
 |---------|-------------|
+| 🌐 [CPMGARAGESTUDIOS](https://cpmgarage.github.io/cpmgaragestudios/) | ***Full modding platform, web-based GG Lua-IDE, Script Generator, Lua Encryption, community ecosystem. Built solo from scratch.*** |
 | 🛡️ [GG Lua Mastery](https://github.com/ethanlabs101/gameguardian-lua-script) | ***My scripting origins, research-focused. Demonstrates practical reverse-engineering & automation.*** |
 | 💾 [NeoWave Bash](https://github.com/ethanlabs101/neowave-bash-legacy) | ***Legacy edition of NeoWave Lua. Displays original bash engine, as well as limitations versus its Lua predecessor.*** |
 | 🌊 [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua) | ***Advanced Lua Neofetch/Fastfetch customization tool. Full config engine, custom logos, colors, module overrides, and full color/backups.*** (Under Construction 🚧) |
