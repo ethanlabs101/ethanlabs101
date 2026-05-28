@@ -37,6 +37,16 @@ about.txt  skills.txt  projects.txt  certs.txt  goodbye.sh
 >> Systems-focused developer building automation tools, dashboards,
 >> and infrastructure style projects.
 
+>> Origins: GameGuardian Scripting / also known as @_cpmgarage (2024-2025)
+>> GameGuardian Lua scripting was my introduction to programming
+>> and reverse engineering. That curiosity grew into CPMGARAGESTUDIOS -
+>> a full modding platform, community ecosystem, with custom tools such
+>> as a web-based GG Lua IDE built from scratch for the CPM community.
+>> That was my beginnings. This is my future.
+
+>> Find my socials:
+>> IG -> @_cpmgarage | Website -> https://cpmgarage.github.io/cpmgaragestudios/
+
 Interested in:
 - system design
 - tooling & automation
@@ -87,7 +97,7 @@ See Below For Project Links! ;)
 
 Certifications:
 
-None Yet...
+Coming soon...
 
 Currently Working on:
 - freeCodeCamp Python track - Python scientific computing & data handling
