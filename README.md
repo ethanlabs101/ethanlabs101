@@ -83,6 +83,7 @@ Concepts:
 [ethanlabs101@archlinux ~]$ cat projects.txt
 
 Projects:
+- cpmgaragestudios
 - gameguardian-lua-script
 - neowave-bash-legacy
 - neowave-lua
