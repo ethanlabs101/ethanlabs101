@@ -9,7 +9,6 @@
 
 ---
 
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&height=75&lines=%F0%9F%92%BB+Skills+%26+Interests%3A" alt="Typing SVG" />
@@ -151,7 +150,6 @@ If you found any of my projects interesting, make sure to leave a star ⭐
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ethanlabs101&amp;theme=github-dark-dimmed&amp;custom_title=ethanlabs101%20Activity%20Graph&amp;hide_border=true" alt="activity graph"></a>
 </p>
 
-
 ---
 
 ## 📫 Contact Me
@@ -164,7 +162,6 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 ---
 
 > “Building tools, exploring systems, and learning every byte of the OS.” 🖤
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
