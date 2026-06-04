@@ -91,6 +91,7 @@ Projects:
 - twilight-launcher
 - integrity-shield
 - sentinel-dashboard
+- lua-toolkit
 
 See Below For Project Links! ;)
 
@@ -134,6 +135,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 | 🕹️ [Retro-Fi](https://github.com/ethanlabs101/Retro-Fi) | ***Custom Linux-native UI system for retro gaming enthusiasts supporting over 35+ retro systems.*** |
 | ⚖️ [Integrity Shield](https://github.com/ethanlabs101/integrity-shield) | ***A simple Python tool that utilizes SHA256 hashing to detect file changes for basic system integrity checking.*** |
 | 🖥️ [Sentinel Dashboard](https://github.com/ethanlabs101/sentinel-dashboard) | ***A real-time, terminal-native security monitor for Linux, built for servers, homelabs, and SSH-first operators.*** (IN DEVELOPMENT) |
+| 🌀 [Lua Toolkit](https://github.com/ethanlabs101/lua-toolkit) | ***A collection of Lua utilities, encoders, parsers, binary tools, and experiments built for learning and fun.*** |
 
 ---
 
