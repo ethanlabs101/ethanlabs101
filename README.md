@@ -127,17 +127,22 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=00aeef&width=435&lines=My+Projects%3A)](https://git.io/typing-svg)
 
-| Project | Description |
-|---------|-------------|
-| 🌐 [CPMGARAGESTUDIOS](https://cpmgarage.github.io/cpmgaragestudios/) | ***Full modding platform, web-based GG Lua-IDE, Script Generator, Lua Encryption, community ecosystem. Built solo from scratch.*** |
-| 🛡️ [GG Lua Mastery](https://github.com/ethanlabs101/gameguardian-lua-script) | ***My scripting origins, research-focused. Demonstrates practical reverse-engineering & automation.*** |
-| 💾 [NeoWave Bash](https://github.com/ethanlabs101/neowave-bash-legacy) | ***Legacy edition of NeoWave Lua. Displays original bash engine, as well as limitations versus its Lua predecessor.*** |
-| 🌊 [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua) | ***Advanced Lua Neofetch/Fastfetch customization tool. Full config engine, custom logos, colors, module overrides, and full color/backups.*** (Under Construction 🚧) |
-| 🕹️ [Retro-Fi](https://github.com/ethanlabs101/Retro-Fi) | ***Custom Linux-native UI system for retro gaming enthusiasts supporting over 35+ retro systems.*** |
-| ⚖️ [Integrity Shield](https://github.com/ethanlabs101/integrity-shield) | ***A simple Python tool that utilizes SHA256 hashing to detect file changes for basic system integrity checking.*** |
-| 🖥️ [Sentinel Dashboard](https://github.com/ethanlabs101/sentinel-dashboard) | ***A real-time, terminal-native security monitor for Linux, built for servers, homelabs, and SSH-first operators.*** (IN DEVELOPMENT) |
-| 🌀 [Lua Toolkit](https://github.com/ethanlabs101/lua-toolkit) | ***A collection of Lua utilities, encoders, parsers, binary tools, and experiments built for learning and fun.*** |
-| 🏎️ [FR Legends RE](https://github.com/ethanlabs101/frlegends-lua-re) | ***A personal reverse engineering lab focused on memory structures, offsets, hex values, and Lua scripting, using FR Legends as a real-world target.*** |
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🌐 [CPMGARAGESTUDIOS](https://cpmgarage.github.io/cpmgaragestudios/) | ***Full modding platform, web-based GG Lua-IDE, Script Generator, Lua Encryption, community ecosystem. Built solo from scratch.*** | ✅
+| 🛡️ [GG Lua Mastery](https://github.com/ethanlabs101/gameguardian-lua-script) | ***My scripting origins, research-focused. Demonstrates practical reverse-engineering & automation.*** | ✅
+| 💾 [NeoWave Bash](https://github.com/ethanlabs101/neowave-bash-legacy) | ***Legacy edition of NeoWave Lua. Displays original bash engine, as well as limitations versus its Lua predecessor.*** | ✅🪦
+| 🌊 [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua) | ***Advanced Lua Neofetch/Fastfetch customization tool. Full config engine, custom logos, colors, module overrides, and full color/backups.*** | 🚧
+| 🕹️ [Retro-Fi](https://github.com/ethanlabs101/Retro-Fi) | ***Custom Linux-native UI system for retro gaming enthusiasts supporting over 35+ retro systems.*** | ✅
+| ⚖️ [Integrity Shield](https://github.com/ethanlabs101/integrity-shield) | ***A simple Python tool that utilizes SHA256 hashing to detect file changes for basic system integrity checking.*** | ✅
+| 🖥️ [Sentinel Dashboard](https://github.com/ethanlabs101/sentinel-dashboard) | ***A real-time, terminal-native security monitor for Linux, built for servers, homelabs, and SSH-first operators.*** | 🚧
+| 🌀 [Lua Toolkit](https://github.com/ethanlabs101/lua-toolkit) | ***A collection of Lua utilities, encoders, parsers, binary tools, and experiments built for learning and fun.*** | 🚧
+| 🏎️ [FR Legends RE](https://github.com/ethanlabs101/frlegends-lua-re) | ***A personal reverse engineering lab focused on memory structures, offsets, hex values, and Lua scripting, using FR Legends as a real-world target.*** | 🚧
+
+Status Legend:
+- ✅ Completed
+- 🚧 In Progress
+- 🪦 Legacy / Abandoned
 
 ---
 
