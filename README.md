@@ -139,7 +139,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 | 🌀 [Lua Toolkit](https://github.com/ethanlabs101/lua-toolkit) | ***A collection of Lua utilities, encoders, parsers, binary tools, and experiments built for learning and fun.*** | 🚧
 | 🏎️ [FR Legends RE](https://github.com/ethanlabs101/frlegends-lua-re) | ***A personal reverse engineering lab focused on memory structures, offsets, hex values, and Lua scripting, using FR Legends as a real-world target.*** | 🚧
 
-Status Legend:
+***Status Legend:***
 - ✅ Completed
 - 🚧 In Progress
 - 🪦 Legacy / Abandoned
