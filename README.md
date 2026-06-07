@@ -77,7 +77,7 @@ Frameworks / Tools:
 Concepts:
 - System design
 - Debugging complex scripts
-- File/data processing
+- File / data processing
 - Network / infrastructure logic
 
 [ethanlabs101@archlinux ~]$ cat projects.txt
