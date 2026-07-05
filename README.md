@@ -93,6 +93,7 @@ Projects:
 - sentinel-dashboard
 - lua-toolkit
 - frlegends-lua-re
+- frlegends-skeleton-key
 
 See Below For Project Links! ;)
 
@@ -138,6 +139,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 | 🖥️ [Sentinel Dashboard](https://github.com/ethanlabs101/sentinel-dashboard) | ***A real-time, terminal-native security monitor for Linux, built for servers, homelabs, and SSH-first operators.*** | 🚧
 | 🌀 [Lua Toolkit](https://github.com/ethanlabs101/lua-toolkit) | ***A collection of Lua utilities, encoders, parsers, binary tools, and experiments built for learning and fun.*** | 🚧
 | 🏎️ [FR Legends RE](https://github.com/ethanlabs101/frlegends-lua-re) | ***A personal reverse engineering lab focused on memory structures, offsets, hex values, and Lua scripting, using FR Legends as a real-world target.*** | 🚧
+| 🔑 [FR Legends Skeleton Key](https://github.com/ethanlabs101/frlegends-skeleton-key) | ***A high-performance state-persistence framework for FR Legends. Orchestrates direct-to-cloud telemetry injection and atomic asset synchronization via hardened XOR-based handshakes. Built for absolute account-level autonomy.*** | 🚧
 
 ---
 
