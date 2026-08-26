@@ -94,6 +94,7 @@ Projects:
 - lua-toolkit
 - frlegends-lua-re
 - frlegends-skeleton-key
+- frlegends-asset-database
 
 See Below For Project Links! ;)
 
@@ -139,6 +140,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 | 🌀 [Lua Toolkit](https://github.com/ethanlabs101/lua-toolkit) | ***A collection of Lua utilities, encoders, parsers, binary tools, and experiments built for learning and fun.*** | 🚧
 | 🏎️ [FR Legends RE](https://github.com/ethanlabs101/frlegends-lua-re) | ***A personal reverse engineering lab focused on memory structures, offsets, hex values, and Lua scripting, using FR Legends as a real-world target.*** | 🚧
 | 🔑 [FR Legends Skeleton Key](https://github.com/ethanlabs101/frlegends-skeleton-key) | ***A high-performance save management framework for FR Legends.*** | 🚧
+| 🔒 [FR Legends Asset Database](https://github.com/ethanlabs101/FRLegends-Asset-Database) | ***The official community asset database for FR Legends Skeleton Key*** | 🚧
 
 ---
 
