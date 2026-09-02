@@ -57,7 +57,7 @@ Interested in:
 [ethanlabs101@archlinux ~]$ cat skills.txt
 
 Languages:
-- Python (primary)
+- Python/node.js (primary)
 - Lua (automation / scripting)
 - Bash (system scripting)
 - HTML / CSS / JS (web development)
