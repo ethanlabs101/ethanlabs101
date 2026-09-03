@@ -53,6 +53,7 @@ Interested in:
 - backend architecture
 - cybersecurity tooling (defensive + offensive concepts)
 - reverse engineering workflows
+- indie game development
 
 [ethanlabs101@archlinux ~]$ cat skills.txt
 
