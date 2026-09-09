@@ -37,7 +37,7 @@ about.txt  skills.txt  projects.txt  certs.txt  goodbye.sh
 >> Systems-focused developer building automation tools, dashboards,
 >> and infrastructure style projects.
 
->> Origins: GameGuardian Scripting / also known as @_cpmgarage (2024-2025)
+>> Origins: GameGuardian Scripting / also known as @_cpmgarage (early 2025)
 >> GameGuardian Lua scripting was my introduction to programming
 >> and reverse engineering. That curiosity grew into CPMGARAGESTUDIOS -
 >> a full modding platform, community ecosystem, with custom tools such
