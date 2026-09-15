@@ -145,21 +145,6 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 
 ---
 
-## ⚡️ Stats
-
-<br>
- <p align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ethanlabs101&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Ethanslabs101's" />
- </p>
- 
-<hr>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ethanlabs101&amp;theme=github-dark-dimmed&amp;custom_title=ethanlabs101%20Activity%20Graph&amp;hide_border=true" alt="activity graph"></a>
-</p>
-
----
-
 ## 📫 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-ethanlabs101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethanlabs101)
