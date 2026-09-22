@@ -93,7 +93,6 @@ Projects:
 - integrity-shield
 - sentinel-dashboard
 - lua-toolkit
-- frlegends-lua-re
 - frlegends-skeleton-key
 - frlegends-asset-database
 
@@ -145,7 +144,6 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 | ⚖️ [Integrity Shield](https://github.com/ethanlabs101/integrity-shield) | ***A simple Python tool that utilizes SHA256 hashing to detect file changes for basic system integrity checking.*** | ✅
 | 🖥️ [Sentinel Dashboard](https://github.com/ethanlabs101/sentinel-dashboard) | ***A real-time, terminal-native security monitor for Linux, built for servers, homelabs, and SSH-first operators.*** | 🚧
 | 🌀 [Lua Toolkit](https://github.com/ethanlabs101/lua-toolkit) | ***A collection of Lua utilities, encoders, parsers, binary tools, and experiments built for learning and fun.*** | 🚧
-| 🏎️ [FR Legends RE](https://github.com/ethanlabs101/frlegends-lua-re) | ***A personal reverse engineering lab focused on memory structures, offsets, hex values, and Lua scripting, using FR Legends as a real-world target.*** | 🚧
 | 🔑 [FR Legends Skeleton Key](https://github.com/ethanlabs101/frlegends-skeleton-key) | ***A high-performance save management framework for FR Legends.*** | ✅
 | 🔒 [FR Legends Asset Database](https://github.com/ethanlabs101/FRLegends-Asset-Database) | ***The official community asset database for FR Legends Skeleton Key*** | ✅
 
