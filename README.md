@@ -145,19 +145,19 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 
 ---
 
-## What's New
+## 📈 What's New
 
 **Just finished:** [FR Legends Skeleton Key Vault v1.0.0](https://github.com/ethanlabs101/frlegends-skeleton-key)
-A full FR Legends save-management and interoperability framework.
+- A full FR Legends save-management and interoperability framework.
 
 **Currently working on:** [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua)  
-A Linux fetch customization tool built around Fastfetch/Neofetch, currently being rebuilt into a cleaner modular system.
+- A Linux fetch customization tool built around Fastfetch/Neofetch, currently being rebuilt into a cleaner modular system.
 
 **Next:** More projects, experiments, and tooling.
 
 ---
 
-## Contact Me
+## 📫 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-ethanlabs101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethanlabs101)
 [![Email](https://img.shields.io/badge/Email-ProtonMail-blue?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ethanlabs101@proton.me)
