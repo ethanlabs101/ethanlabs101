@@ -31,7 +31,7 @@
 [ethanlabs101@archlinux ~]$ whoami
 ethanlabs101
 [ethanlabs101@archlinux ~]$ ls
-about.txt  skills.txt  projects.txt  certs.txt  goodbye.sh
+about.txt  skills.txt  projects.txt  certs.txt  current.txt  goodbye.sh
 [ethanlabs101@archlinux ~]$ cat about.txt
 
 >> Systems-focused developer building automation tools, dashboards,
@@ -114,6 +114,12 @@ Future:
 - CompTIA Security+ (security fundamentals)
 - additional systems/security certifications as needed
 
+[ethanlabs101@archlinux ~]$ cat current.txt
+
+Currently:
+- ✅ FR Legends Skeleton Key — v1.0.0 released
+- 🚧 NeoWave Lua — active development
+
 [ethanlabs101@archlinux ~]$ ./goodbye.sh
 
 Thank you for visting my profile!
@@ -142,18 +148,6 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 | 🏎️ [FR Legends RE](https://github.com/ethanlabs101/frlegends-lua-re) | ***A personal reverse engineering lab focused on memory structures, offsets, hex values, and Lua scripting, using FR Legends as a real-world target.*** | 🚧
 | 🔑 [FR Legends Skeleton Key](https://github.com/ethanlabs101/frlegends-skeleton-key) | ***A high-performance save management framework for FR Legends.*** | ✅
 | 🔒 [FR Legends Asset Database](https://github.com/ethanlabs101/FRLegends-Asset-Database) | ***The official community asset database for FR Legends Skeleton Key*** | ✅
-
----
-
-## 📈 What's New
-
-**Just finished:** [FR Legends Skeleton Key Vault v1.0.0](https://github.com/ethanlabs101/frlegends-skeleton-key)
-- A full FR Legends save-management and interoperability framework.
-
-**Currently working on:** [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua)  
-- A Linux fetch customization tool built around Fastfetch/Neofetch, currently being rebuilt into a cleaner modular system.
-
-**Next:** More projects, experiments, and tooling.
 
 ---
 
