@@ -89,7 +89,6 @@ Projects:
 - neowave-bash-legacy
 - neowave-lua
 - Retro-Fi
-- twilight-launcher
 - integrity-shield
 - sentinel-dashboard
 - lua-toolkit
