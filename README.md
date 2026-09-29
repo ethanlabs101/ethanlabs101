@@ -92,6 +92,7 @@ Projects:
 - lua-toolkit
 - frlegends-skeleton-key
 - frlegends-asset-database
+- StaticFX
 
 See Below For Project Links! ;)
 
