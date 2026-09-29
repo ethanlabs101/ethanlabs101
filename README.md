@@ -92,6 +92,7 @@ Projects:
 - lua-toolkit
 - frlegends-skeleton-key
 - frlegends-asset-database
+- TermiCube
 - StaticFX
 
 See Below For Project Links! ;)
@@ -144,6 +145,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 | 🌀 [Lua Toolkit](https://github.com/ethanlabs101/lua-toolkit) | ***A collection of Lua utilities, encoders, parsers, binary tools, and experiments built for learning and fun.*** | 🚧
 | 🔑 [FR Legends Skeleton Key](https://github.com/ethanlabs101/frlegends-skeleton-key) | ***A high-performance save management framework for FR Legends.*** | ✅
 | 🔒 [FR Legends Asset Database](https://github.com/ethanlabs101/FRLegends-Asset-Database) | ***The official community asset database for FR Legends Skeleton Key*** | ✅
+| 🎲 [TermiCube](https://github.com/ethanlabs101/TermiCube) | ***A dependency-free 3D Rubik's Cube animation for the terminal.*** | ✅
 
 ---
 
