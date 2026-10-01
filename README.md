@@ -93,6 +93,7 @@ Projects:
 - frlegends-asset-database
 - TermiCube
 - StaticFX
+- TerminalTanks
 
 See Below For Project Links! ;)
 
@@ -145,6 +146,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 | 🔒 [FR Legends Asset Database](https://github.com/ethanlabs101/FRLegends-Asset-Database) | ***The official community asset database for FR Legends Skeleton Key*** | ✅
 | 🎲 [TermiCube](https://github.com/ethanlabs101/TermiCube) | ***A dependency-free 3D Rubik's Cube animation for the terminal.*** | ✅
 | ✨ [StaticFX](https://github.com/ethanlabs101/StaticFX) | ***A modular, extensible Python terminal visual effects engine featuring procedural animations, 3D graphics, themes, and 1,000+ generated effects.*** | 🚧
+| 💥 [TerminalTanks](https://github.com/ethanlabs101/TerminalTanks) | ***A full tank combat sandbox built from a custom Python terminal game engine.*** | 🚧
 
 ---
 
