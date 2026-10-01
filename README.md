@@ -144,6 +144,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 | 🔑 [FR Legends Skeleton Key](https://github.com/ethanlabs101/frlegends-skeleton-key) | ***A high-performance save management framework for FR Legends.*** | ✅
 | 🔒 [FR Legends Asset Database](https://github.com/ethanlabs101/FRLegends-Asset-Database) | ***The official community asset database for FR Legends Skeleton Key*** | ✅
 | 🎲 [TermiCube](https://github.com/ethanlabs101/TermiCube) | ***A dependency-free 3D Rubik's Cube animation for the terminal.*** | ✅
+| ✨ [StaticFX]() | ***A modular, extensible Python terminal visual effects engine featuring procedural animations, 3D graphics, themes, and 1,000+ generated effects.*** | 🚧
 
 ---
 
