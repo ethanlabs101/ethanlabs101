@@ -85,8 +85,6 @@ Projects:
 - StaticFX
 - TerminalTanks
 
-See Below For Project Links! ;)
-
 [ethanlabs101@archlinux ~]$ cat certs.txt
 
 Certifications:
