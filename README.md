@@ -45,39 +45,29 @@ about.txt  skills.txt  projects.txt  certs.txt  current.txt  goodbye.sh
 >> Find my socials:
 >> IG -> @_cpmgarage | Website -> https://cpmgarage.github.io/cpmgaragestudios/
 
-Interested in:
-- system design
-- tooling & automation
-- backend architecture
-- cybersecurity tooling (defensive + offensive concepts)
-- reverse engineering workflows
-- indie game development
-
 [ethanlabs101@archlinux ~]$ cat skills.txt
 
 Languages:
-- Python/node.js (primary)
-- Lua (automation / scripting)
-- Bash (system scripting)
-- HTML / CSS / JS (web development)
+- Python
+- Bash
+- Lua
+- JavaScript / Node.js
+- HTML / CSS
 
 Systems:
+- Linux
+- CLI/TUI development
 - Automation tooling
-- Dashboard development
-- Scripted environments / modding tools
-- API integration
-- Linux Internals
+- Filesystem/data processing
+- Networking Fundamentals
 
-Frameworks / Tools:
-- Electron (desktop applications)
-- Node.js (runtime / tooling)
-- Git (version control)
-
-Concepts:
-- System design
-- Debugging complex scripts
-- File / data processing
-- Network / infrastructure logic
+Interests:
+- Systems programming
+- Cybersecurity tooling
+- Reverse engineering
+- Infrastructure
+- Terminal software
+- Game development
 
 [ethanlabs101@archlinux ~]$ cat projects.txt
 
