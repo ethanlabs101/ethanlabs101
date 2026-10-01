@@ -40,7 +40,7 @@ about.txt  skills.txt  projects.txt  certs.txt  current.txt  goodbye.sh
 >> and reverse engineering. That curiosity grew into CPMGARAGESTUDIOS -
 >> a full modding platform, community ecosystem, with custom tools such
 >> as a web-based GG Lua IDE built from scratch for the CPM community.
->> That was my beginnings. This is my future.
+>> That was my beginning. This is my future.
 
 >> Find my socials:
 >> IG -> @_cpmgarage | Website -> https://cpmgarage.github.io/cpmgaragestudios/
