@@ -32,8 +32,8 @@ ethanlabs101
 about.txt  skills.txt  projects.txt  certs.txt  current.txt  goodbye.sh
 [ethanlabs101@archlinux ~]$ cat about.txt
 
->> Systems-focused developer building automation tools, dashboards,
->> and infrastructure style projects.
+>> Systems-focused developer building Linux-native
+>> and terminal-first tooling.
 
 >> Origins: GameGuardian Scripting / also known as @_cpmgarage (early 2025)
 >> GameGuardian Lua scripting was my introduction to programming
