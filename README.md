@@ -145,9 +145,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 
 ## 📫 My Contacts
 
-[![GitHub](https://img.shields.io/badge/GitHub-ethanlabs101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethanlabs101) [![Email](https://img.shields.io/badge/Email-ProtonMail-blue?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ethanlabs101@proton.me)
-
-[![YouTube](https://img.shields.io/badge/YouTube-ethanlabs101-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ethanlabs101) [![Itch.io](https://img.shields.io/badge/Itch.io-ethanlabs101-EF1FFF?style=for-the-badge&logo=itch.io&logoColor=white)](https://ethanlabs101.itch.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-ethanlabs101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethanlabs101) [![Email](https://img.shields.io/badge/Email-ProtonMail-blue?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ethanlabs101@proton.me) [![YouTube](https://img.shields.io/badge/YouTube-ethanlabs101-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ethanlabs101) [![Itch.io](https://img.shields.io/badge/Itch.io-ethanlabs101-EF1FFF?style=for-the-badge&logo=itch.io&logoColor=white)](https://ethanlabs101.itch.io/)
 
 
 ---
