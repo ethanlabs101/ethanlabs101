@@ -108,8 +108,8 @@ Currently:
 - ✅ FR Legends Skeleton Key — v1.0.0 released
 - ✅ Terminal Tanks - v2.0.0 released
 - ✅ Terminal Tanks DS - v2.0.1 released
+- ✅ StaticFX - v2.0.1 released
 
-- 🚧 StaticFX - active development
 - 🚧 NeoWave Lua — active development
 
 [ethanlabs101@archlinux ~]$ ./goodbye.sh
@@ -139,7 +139,7 @@ If you found any of my projects interesting, make sure to leave a star ⭐
 | 🔑 [FR Legends Skeleton Key](https://github.com/ethanlabs101/frlegends-skeleton-key) | ***A high-performance save management framework for FR Legends.*** | ✅
 | 🔒 [FR Legends Asset Database](https://github.com/ethanlabs101/FRLegends-Asset-Database) | ***The official community asset database for FR Legends Skeleton Key*** | ✅
 | 🎲 [TermiCube](https://github.com/ethanlabs101/TermiCube) | ***A dependency-free 3D Rubik's Cube animation for the terminal.*** | ✅
-| 🎨 [StaticFX](https://github.com/ethanlabs101/StaticFX) | ***A modular, extensible Python terminal visual effects engine featuring procedural animations, 3D graphics, themes, and 1,000+ generated effects.*** | 🚧
+| 🎨 [StaticFX](https://github.com/ethanlabs101/StaticFX) | ***Matrix rain and 1,000+ animated effects for your terminal. 26 themes, a built-in effect editor, fastfetch overlay. Pure Python, no dependencies.*** | ✅
 | 🎮 [Terminal Tanks](https://github.com/ethanlabs101/TerminalTanks) | ***A tactical artillery game that runs in your terminal. 123 tanks, 50 missions, 20 bosses, a story and a 277-track soundtrack, built in pure Python with zero dependencies. Play in your terminal or your browser.*** | ✅
 | 🌐 [Terminal Tanks Website](https://ethanlabs101.github.io/terminaltanks-site/) | ***Website for Terminal Tanks: play in the browser, catalog, workshop, jukebox and downloads.*** | ✅
 | 👾 [Terminal Tanks DS](https://github.com/ethanlabs101/TerminalTanks-DS) | ***Terminal Tanks for the Nintendo DS: homebrew port of the turn-based tank artillery game, with music and DS-to-DS wireless.*** | ✅
