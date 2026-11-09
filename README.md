@@ -108,7 +108,7 @@ Currently:
 - ✅ FR Legends Skeleton Key — v1.0.0 released
 - ✅ Terminal Tanks - v2.0.0 released
 - ✅ Terminal Tanks DS - v2.0.1 released
-- ✅ StaticFX - v2.0.1 released
+- ✅ StaticFX - v2.1.0 released
 
 - 🚧 NeoWave Lua — active development
 
