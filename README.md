@@ -94,8 +94,8 @@ Certifications:
 Coming soon...
 
 Currently Working on:
+- TryHackMe
 - freeCodeCamp Python track - Python scientific computing & data handling
-- Exercism Python track 
 
 Future:
 - CompTIA Network+ (networking fundamentals)
