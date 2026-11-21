@@ -91,8 +91,6 @@ Projects:
 
 Certifications:
 
-Coming soon...
-
 Currently Working on:
 - PortSwigger SQLi Course/Labs
 - TryHackMe
